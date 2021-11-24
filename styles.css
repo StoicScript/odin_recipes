@@ -1,0 +1,33 @@
+.center{
+    text-align: center;
+}
+
+.recipe-links{
+    font-family: Helvetica, sans-serif;
+    color: black;
+}
+
+ul{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+    display: inline-block;
+}
+
+li{
+    padding-bottom: 10px;
+    color: rgb(64, 187, 224);
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    text-decoration: underline;
+    font-family: Helvetica, sans-serif;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
